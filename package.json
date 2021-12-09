@@ -1,0 +1,14 @@
+{
+  "name": "docker",
+  "version": "0.0.1",
+  "description": "praticando node & docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app"
+  },
+  "author": "Bruno Santana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
