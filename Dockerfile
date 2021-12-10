@@ -1,4 +1,4 @@
-FROM node:16-slim as BUILDER
+FROM node:16-slim
 LABEL maintainer="Bruno Santana"
 
 WORKDIR /usr/src/app
@@ -7,16 +7,9 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
 
-COPY src ./src
-
-FROM node:16-alpine
-
-ARG NODE_ENV
-
-WORKDIR /usr/src/app
-
-COPY --from=BUILDER /usr/src/app/ ./
+COPY . .
+RUN npm run build
 
 EXPOSE 3003
 
-CMD [ "npm", "start" ]
+CMD ["npm", "start" ]
