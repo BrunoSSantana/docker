@@ -38,24 +38,24 @@ Até o presente momento, existe apenas uma rota `url/` que retorna um json com a
 
 ## 💻 Getting started
 
-### Requirements:
+### Requisitos:
 
 - [Node.js](https://nodejs.org/en/)
 - [Docker](https://www.docker.com/)
 - [Docker-compose](https://docs.docker.com/compose/)
 - [heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
-**Clone the project and access the folder**
+**Clone o projeto e acesse a sua pasta**
 ```bash
 $ git clone https://github.com/Bruno/docker.git && cd docker
 ```
 
-**Clone by GitHub CLI:**
+**Clone via GitHub CLI:**
 ```bash
 $ gh repo clone BrunoSSantana/docker
 ```
 
-**Follow the steps below**
+**Segia os passos abaixo**
 ```sh
 # ativando script
 cd docker && chmod +x run.sh
@@ -71,7 +71,7 @@ heroku create
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Esse projeto é licenciado sob a Licença MIT - consulte o [LICENSE](LICENSE) arquivo para detalhes.
 
 ---
 ## 👨🏻‍💻 Author
@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
  <br />
  <sub><b>Bruno Santana</b></sub></a> <a href="https://github.com/BrunoSSantana/" title="Rocketseat">🚀</a>
 
-Made with 💜 by Bruno Santana 👋🏽
+Feito com 💜 por [Bruno Santana](https://www.linkedin.com/in/bruno-santanas/) 👋🏽
 
 [⬆ Back to the top](#-about-the-project)
