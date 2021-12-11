@@ -12,7 +12,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/BrunoSSantana/docker">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/BrunoSSantana/docker">
+  <img alt="License" src="https://img.shields.io/github/license/BrunoSSantana/docker">
 </p>
 
 <p align="center">
