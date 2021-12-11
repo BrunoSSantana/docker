@@ -25,10 +25,7 @@
 
 ## 📜 About the project
 
-> Repositório criado com o intuito de estudar desenvolvimento utilizando Docker e técnicas alternativas de Deploy, no caso utilizando o serviço do Heroku.
-
-Ao me deparar com o conteúdo escaço e enchergar como uma boa prática para estudo, resolvi criar o repositório para fomentar fontes neste sentido.
-Até o presente momento, existe apenas uma rota `url/` que retorna um json com a mensagem `Hello Bruno`.
+Repositório criado com o intuito de estudar desenvolvimento utilizando Docker e técnicas alternativas de Deploy utilizando o serviço do Heroku Containers. Ao me deparar com o conteúdo escasso, resolvi criar o repositório para fomentar fontes neste sentido. Até o presente momento, existe apenas uma rota `url/` que retorna um json com a mensagem `Hello Bruno`.
 
 ## 🚀 Technologies
 - [Node.js](https://nodejs.org/en/)
